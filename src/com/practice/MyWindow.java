@@ -48,3 +48,6 @@ public class MyWindow extends JFrame {
        timer.start();
      }
 }
+
+
+// This code of Digital clock has made by Dhiraj Kumar Chougale
